@@ -1,6 +1,7 @@
 # vue-project(20230130)
 
 This template should help get you started developing with Vue 3 in Vite.
+vue3+vite的一个小demo
 
 ## Recommended IDE Setup
 
